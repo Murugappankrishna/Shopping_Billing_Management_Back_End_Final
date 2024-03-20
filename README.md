@@ -66,7 +66,7 @@ This project is a Java console-based application designed for shopping and billi
 
 ### Source Code Repository
 
-- **GitHub Repository:** [Link to the GitHub repository](https://github.com/Murugappankrishna/Shopping_Billing_Management_Back_End_Final/tree/main)`modify`
+- **GitHub Repository:** [Link to the GitHub repository](https://github.com/Murugappankrishna/Shopping_Billing_Management_Back_End_Final/tree/main)
 - **To Get The File:** `git clone https://github.com/Murugappankrishna/Shopping_Billing_Management_Back_End_Final.git`
 
 ### Quick Start
